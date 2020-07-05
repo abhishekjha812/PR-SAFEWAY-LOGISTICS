@@ -1,0 +1,40 @@
+.topnav {
+    background-color: #b366ff;
+    width: 100%;
+    overflow: hidden;
+    float: right;
+    height: 4rem;
+    
+    
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    float: right;
+    height: 4rem;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    float: right;
+    height: 4rem;
+  }  
+  .topnav a.active {
+    
+    color: white;
+    float: right;
+    height: 4rem;
+  }
+  /* .foot {
+    color: white;
+    font-weight: 100;
+    height: 25rem;
+    padding-top: 10px;
+    background-color: #080808;
+  } */
+  
+  
